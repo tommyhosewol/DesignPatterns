@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.VisitorPattern", "DesignPatterns.VisitorPattern\DesignPatterns.VisitorPattern.csproj", "{E9473949-E433-467C-823B-9BA407BDDBCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.FactoryPattern", "DesignPatterns.FactoryPattern\DesignPatterns.FactoryPattern.csproj", "{B54B39FA-5440-4554-8EE6-E6F5B5E23DAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.BuilderPattern", "DesignPatterns.BuilderPattern\DesignPatterns.BuilderPattern.csproj", "{53AA3291-60A5-42F3-8195-A437FE972357}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9473949-E433-467C-823B-9BA407BDDBCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9473949-E433-467C-823B-9BA407BDDBCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9473949-E433-467C-823B-9BA407BDDBCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9473949-E433-467C-823B-9BA407BDDBCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B54B39FA-5440-4554-8EE6-E6F5B5E23DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B54B39FA-5440-4554-8EE6-E6F5B5E23DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B54B39FA-5440-4554-8EE6-E6F5B5E23DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B54B39FA-5440-4554-8EE6-E6F5B5E23DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53AA3291-60A5-42F3-8195-A437FE972357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53AA3291-60A5-42F3-8195-A437FE972357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53AA3291-60A5-42F3-8195-A437FE972357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53AA3291-60A5-42F3-8195-A437FE972357}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
